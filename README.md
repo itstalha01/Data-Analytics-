@@ -1,2 +1,2 @@
-# Data-Analytics-
-This is just to track my day to day progress on data analytics.
+# Data-Analytics Track -
+This is to track my day-to-day progress in data analytics.
